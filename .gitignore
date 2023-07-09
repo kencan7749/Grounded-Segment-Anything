@@ -133,3 +133,8 @@ dmypy.json
 outputs/
 
 .idea/
+
+*.png
+_results_with_wall
+results
+data
